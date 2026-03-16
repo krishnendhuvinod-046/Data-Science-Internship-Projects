@@ -55,16 +55,17 @@ Steps:
 
 - ## Level 3 - Task 1 : Customer Churn Prediction
   
-- Machine Learning model built using Random Forest to predict whether a customer will churn.
+ Machine Learning model built using Random Forest to predict whether a customer will churn.
 
 Tools Used:
-Python
 
-Pandas
+-Python
 
-Scikit-learn
+-Pandas
 
-Seaborn
+-Scikit-learn
+
+-Seaborn
 
 
 ## Level 3 - Task 2 : Sentiment Analysis
@@ -72,10 +73,11 @@ Seaborn
 NLP model to classify text into positive or negative sentiment.
 
 Tools Used:
-Python
 
-CountVectorizer
+-Python
 
-Multinomial Naive Bayes
+-CountVectorizer
+
+-Multinomial Naive Bayes
 
 
