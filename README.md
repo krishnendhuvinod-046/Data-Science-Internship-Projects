@@ -59,13 +59,13 @@ Steps:
 
 Tools Used:
 
-python
+-python
 
-pandas
+-pandas
 
-scikit-learn
+-scikit-learn
 
-seaborn
+-seaborn
 
 
 
