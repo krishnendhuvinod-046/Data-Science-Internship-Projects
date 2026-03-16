@@ -68,15 +68,14 @@ These evaluation techniques help understand how well the model predicts customer
 
 ### Customer Churn Distribution
 
-([churn distribution](churn_distribution.png)
-
+![Churn Distribution](churn_distribution.png)
 ### Confusion Matrix
 
-([confusion matrix](confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ### Feature Importance
 
-([feature Importance](feature_importance.png)
+![feature Importance](feature_importance.png)
 
 ---
 
