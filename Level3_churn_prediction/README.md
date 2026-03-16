@@ -68,7 +68,7 @@ These evaluation techniques help understand how well the model predicts customer
 
 ### Customer Churn Distribution
 
-![Churn distribution](churn_distribution.png)
+![customer distribution](customer_distribution.png)
 
 ### Confusion Matrix
 
