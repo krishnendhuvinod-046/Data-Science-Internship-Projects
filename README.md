@@ -59,13 +59,14 @@ Steps:
 
 Tools Used:
 
--Python
+python
 
--Pandas
+pandas
 
--Scikit-learn
+scikit-learn
 
--Seaborn
+seaborn
+
 
 
 ## Level 3 - Task 2 : Sentiment Analysis
