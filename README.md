@@ -53,7 +53,7 @@ Steps:
 - Applied K-Means algorithm
 - Visualized clusters using scatter plot
 
-- ## Level 3 - Task 1 : Customer Churn Prediction
+ ## Level 3 - Task 1 : Customer Churn Prediction
   
  Machine Learning model built using Random Forest to predict whether a customer will churn.
 
