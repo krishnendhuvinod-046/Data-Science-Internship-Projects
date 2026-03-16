@@ -36,7 +36,7 @@ Steps Performed:
 
 Dataset Used:
 Stock Prices Data Set.csv
-## Level 2 Task 2 - K-Means Clustering
+## Level 2 -T ask 2 : K-Means Clustering
 
 Dataset Used:
 Iris Dataset
@@ -53,7 +53,7 @@ Steps:
 - Applied K-Means algorithm
 - Visualized clusters using scatter plot
 
-- ## Level 3  Task 1 - Customer Churn Prediction
+- ## Level 3 - Task 1 : Customer Churn Prediction
 - 
 - Machine Learning model built using Random Forest to predict whether a customer will churn.
 
@@ -63,7 +63,7 @@ Pandas
 Scikit-learn
 Seaborn
 
-## Level 3 Task 2 - Sentiment Analysis
+## Level 3 - Task 2 : Sentiment Analysis
 
 NLP model to classify text into positive or negative sentiment.
 
