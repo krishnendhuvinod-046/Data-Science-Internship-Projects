@@ -78,7 +78,7 @@ These metrics help measure how accurately the model classifies sentiments.
 
 ### Confusion Matrix
 
-![Confusion matrix](confusion_matrix2.png)
+![confusion matrix](confusion_matrix2.png)
 
 ---
 
