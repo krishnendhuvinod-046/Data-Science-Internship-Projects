@@ -1,6 +1,6 @@
-# Data Science Internship Projects
+# Codveda Data Analytics Internship
 
-This repository contains projects completed during my Data Science internship.
+This repository contains projects completed during my Data Analytics internship.
 
 ## Task 1: Data Cleaning and Preprocessing
 - Handled missing values
