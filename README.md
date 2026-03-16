@@ -1,4 +1,4 @@
-# Codveda Data Analytics Internship
+#  Data Analytics Internship projects
 
 This repository contains projects completed during my Data Analytics internship.
 
