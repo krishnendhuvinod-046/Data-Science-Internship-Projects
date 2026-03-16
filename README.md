@@ -2,12 +2,12 @@
 
 This repository contains projects completed during my Data Analytics internship.
 
-## Level 1 Task 1: Data Cleaning and Preprocessing
+## Level 1 - Task 1: Data Cleaning and Preprocessing
 - Handled missing values
 - Removed duplicate records
 - Prepared dataset for analysis
 
-## Level 1 Task 2: Exploratory Data Analysis (EDA)
+## Level 1 - Task 2: Exploratory Data Analysis (EDA)
 - Generated summary statistics
 - Created scatter plots, boxplots, and heatmaps
 - Analyzed feature relationships
